@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rini20
 - 👀 I’m interested in SQL and Python
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me ..
 
