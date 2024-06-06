@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rini20
-- 👀 I’m interested in SQL and Python
-- 🌱 I’m currently learning sql and python
-- 💞️ I’m looking to collaborate sql and python
-- 📫 How to reach me ..
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning python, selenium automation
+
 
 <!---
 rini20/rini20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
