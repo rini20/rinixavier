@@ -1,4 +1,4 @@
-# Hi, I’m @rini20
+# Hi, I’m Rini
 
 👋 Welcome to my GitHub profile!
 
