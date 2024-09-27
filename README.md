@@ -14,9 +14,6 @@ I'm currently engaged in a number of projects that highlight my journey into aut
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/rini-xavier
-
-
 Feel free to reach out if you share similar interests or have any questions. I'm always open to collaborating on exciting projects and learning opportunities.
 
 
